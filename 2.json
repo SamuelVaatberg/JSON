@@ -1,20 +1,16 @@
-{  
-  "description": "John Swagmaster will beat your ass boy.", 
-  "external_url": "https://openseacreatures.io/3", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png", 
-  "name": "John Swagmaster",  
+{
   "attributes": [
     {
       "trait_type": "Race", 
       "value": "Saiyan"
     }, 
     {
-      "trait_type": "Alliance", 
-      "value": "Z-Fighters"
-    }, 
-    {
       "trait_type": "Alias", 
       "value": "Kakarot"
+    }, 
+    {
+      "trait_type": "Alliance", 
+      "value": "Z-Fighters"
     }, 
     {
       "trait_type": "Powerlevel", 
@@ -33,7 +29,11 @@
     {
       "display_type": "number", 
       "trait_type": "Saga", 
-      "value": "Raditz"
+      "value": "Saiyan"
     }
   ], 
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png", 
+  "name": "John Swagmaster"
 }
