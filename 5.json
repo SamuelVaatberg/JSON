@@ -1,24 +1,24 @@
 {
   "attributes": [
     {
-      "trait_type": "Race", 
-      "value": "Saiyan"
+      "trait_type": "race", 
+      "value": "saiyan"
     }, 
     {
-      "trait_type": "Alias", 
-      "value": "Kakarot"
+      "trait_type": "alias", 
+      "value": "kakarot"
     }, 
     {
-      "trait_type": "Alliance", 
-      "value": "Z-Fighters"
+      "trait_type": "alliance", 
+      "value": "z-fighters"
     }, 
     {
-      "trait_type": "Powerlevel", 
+      "trait_type": "powerlevel", 
       "value": 412
     }, 
   ], 
   "description": "Bad ass mofo.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "http://dragonnft.finance/wp-content/uploads/2021/04/Goku_Common.png", 
-  "name": "Goku"
+  "name": "goku"
 }
