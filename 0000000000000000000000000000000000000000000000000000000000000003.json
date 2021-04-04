@@ -1,0 +1,39 @@
+{  
+  "description": "John Swagmaster will beat your ass boy.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png", 
+  "name": "John Swagmaster",  
+  "attributes": [
+    {
+      "trait_type": "race", 
+      "value": "saiyan"
+    }, 
+    {
+      "trait_type": "alliance", 
+      "value": "z-fighters"
+    }, 
+    {
+      "trait_type": "alias", 
+      "value": "kakarot"
+    }, 
+    {
+      "trait_type": "powerlevel", 
+      "value": 412
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 10
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 5
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "saga", 
+      "value": "Raditz"
+    }
+  ], 
+}
