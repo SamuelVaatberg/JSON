@@ -3,6 +3,6 @@
   "description": "Man I just hope this works for once...",
   "image": "https://openseacreatures.io/image.png",
   "external_link": "https://openseacreatures.io",
-  "seller_fee_basis_points": 20, # Indicates a 1% seller fee.
-  "fee_recipient": "0x06BdF558aCB7A3988Eb25504faF7ab192c5C6a32" # Where seller fees will be paid to.
+  "seller_fee_basis_points": 20, 
+  "fee_recipient": "0x06BdF558aCB7A3988Eb25504faF7ab192c5C6a32"
 }
