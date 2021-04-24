@@ -1,23 +1,119 @@
-[
-  {
-    "id": 0,
-    "description": "First NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 0"
-  },
-  {
-    "id": 1,
-    "description": "Second NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 1"
-  },
-  {
-    "id": 2,
-    "description": "Third NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 2"
-  }
+[{
+		"id": 0,
+		"description": "John Swagmaster will beat your ass boy.",
+		"external_url": "https://openseacreatures.io/3",
+		"image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
+		"name": "John0 Swagmaster",
+		"attributes": [{
+				"trait_type": "Race",
+				"value": "Saiyan"
+			},
+			{
+				"trait_type": "Alliance",
+				"value": "Z-Fighters"
+			},
+			{
+				"trait_type": "Alias",
+				"value": "Kakarot"
+			},
+			{
+				"trait_type": "Powerlevel",
+				"value": 412
+			},
+			{
+				"display_type": "boost_number",
+				"trait_type": "Aqua Power",
+				"value": 10
+			},
+			{
+				"display_type": "boost_percentage",
+				"trait_type": "Stamina Increase",
+				"value": 5
+			},
+			{
+				"display_type": "number",
+				"trait_type": "Saga",
+				"value": "Raditz"
+			}
+		]
+	},
+
+	{
+		"id": 1,
+		"description": "John Swagmaster will beat your ass boy.",
+		"external_url": "https://openseacreatures.io/3",
+		"image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
+		"name": "John0 Swagmaster",
+		"attributes": [{
+				"trait_type": "Race",
+				"value": "Saiyan"
+			},
+			{
+				"trait_type": "Alliance",
+				"value": "Z-Fighters"
+			},
+			{
+				"trait_type": "Alias",
+				"value": "Kakarot"
+			},
+			{
+				"trait_type": "Powerlevel",
+				"value": 412
+			},
+			{
+				"display_type": "boost_number",
+				"trait_type": "Aqua Power",
+				"value": 10
+			},
+			{
+				"display_type": "boost_percentage",
+				"trait_type": "Stamina Increase",
+				"value": 5
+			},
+			{
+				"display_type": "number",
+				"trait_type": "Saga",
+				"value": "Raditz"
+			}
+		]
+	},
+
+	{
+		"description": "John Swagmaster will beat your ass boy.",
+		"external_url": "https://openseacreatures.io/3",
+		"image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
+		"name": "John0 Swagmaster",
+		"attributes": [{
+				"trait_type": "Race",
+				"value": "Saiyan"
+			},
+			{
+				"trait_type": "Alliance",
+				"value": "Z-Fighters"
+			},
+			{
+				"trait_type": "Alias",
+				"value": "Kakarot"
+			},
+			{
+				"trait_type": "Powerlevel",
+				"value": 412
+			},
+			{
+				"display_type": "boost_number",
+				"trait_type": "Aqua Power",
+				"value": 10
+			},
+			{
+				"display_type": "boost_percentage",
+				"trait_type": "Stamina Increase",
+				"value": 5
+			},
+			{
+				"display_type": "number",
+				"trait_type": "Saga",
+				"value": "Raditz"
+			}
+		]
+	}
 ]
